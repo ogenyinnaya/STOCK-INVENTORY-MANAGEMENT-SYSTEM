@@ -1,0 +1,2 @@
+# STOCK-INVENTORY-MANAGEMENT-SYSTEM
+It has a point of sale module, and it is built on the CodeIgniter framework. It's features/modules range from multiple warehouse/store management, purchases, sales &amp; invoicing, stock transfers, etc. I have also successfully deployed the system to organizations that imports and deals with a wide range of products, with different warehouses, branches and outlets, a shopping mall, stores &amp; supermarkets, etc., both on cloud and locally.
